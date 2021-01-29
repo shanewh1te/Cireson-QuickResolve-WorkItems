@@ -8,7 +8,7 @@ But no more! This solution will help alleviate a lot of that sitting around just
 
 So there are a few components to this:
 
-Install the ManagementPack (Cireson.QuickComplete.SRExtension.mp), this is a class Extension for the SR class to add a Boolean (True of False) field to the class. This is used to toggle whether a Service Request is a quick complete SR or not.
+Install the ManagementPack (Cireson.WorkItem.ServiceRequest.Extensions.QuickComplete.mp), this is a class Extension for the SR class to add a Boolean (True of False) field to the class. This is used to toggle whether a Service Request is a quick complete SR or not.
 
 Copy the QuickResolve Folder from the files to C:\inetpub\CiresonPortal\CustomSpace
 
