@@ -1,0 +1,1 @@
+loadScript("/CustomSpace/QuickResolve/QuickResolve.js",['/Incident/','/ServiceRequest/']);
